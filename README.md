@@ -6,7 +6,7 @@
 
 <p>Kindly click the below link to view the product details webpage</p>
 <br>
-<a href="">Preview product details webpage</a>
+<a href="https://hsarfaraz.github.io/task_cloud_element/index.html">Preview product details webpage</a>
 
 
 <br>
